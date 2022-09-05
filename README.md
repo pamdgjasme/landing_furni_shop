@@ -1,4 +1,4 @@
-## Furniture Shop
+## Furniture Shop [WIP]
 #### A static HTML version of a Dribbble web design
 ##### Preview: https://landing-furni-shop.herokuapp.com/
 
